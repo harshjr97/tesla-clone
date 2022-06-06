@@ -19,21 +19,5 @@
  - ``` npx create-react-app clone-tesla ```
  - ``` npm install react-bootstrap bootstrap@5.1.3 ```
 
-## :information_source: Run it in Netlify -> Link below
-:link: **- https://mesla-clone.netlify.app**
-
-## Squad Mesla - Members
-
-👨‍💻: **- [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus")**
-
-👨‍💻: **- [Pedro Palugan](https://github.com/pedropalugan "GitHub do Pedro")**
-
-👨‍💻: **- [Luccas Thiago](https://github.com/LuccasThiago "GitHub do Luccas")**
-
-👨‍💻: **- [Thiago Messias](https://github.com/Thmsantos "GitHub do Thiago")**
-
-## Logo of Squad
-
-<p align="center">
-  <img width="300px" height"=300px" src="https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/icon.png">
-  </p>
+## :information_source: Live Link -> Link below
+:link: **- https://tesla-clone-project-1.vercel.app/ **
